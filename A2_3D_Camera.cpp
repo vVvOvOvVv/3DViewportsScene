@@ -591,7 +591,7 @@ int main(void) {
 
 	// create a window and its OpenGL context
 	window = glfwCreateWindow(gWindowWidth, gWindowHeight, 
-		"Salangsang Verna Beltran - 7433517", nullptr, nullptr);
+		"3DViewportsScene", nullptr, nullptr);
 
 	// check if window created successfully
 	if (window == nullptr)
